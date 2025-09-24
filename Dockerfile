@@ -1,4 +1,4 @@
-FROM ghcr.io/living-tech/alpine-node22:22.15.0
+FROM ghcr.io/living-tech/alpine-node22:22
 
 LABEL maintainer="シャトク<system@shatoku.com>"
 
