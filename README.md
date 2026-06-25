@@ -4,16 +4,16 @@ Lightweight pnpm docker image on alpine with npm installation on build
 
 ## alpine
 
-version: 3.22.2
+version: 3.24.1
 
 ## NodeJS
 
-version: 22.21.0
+version: 22.23.0
 
 ## NPM
 
-version: 11.6.2
+version: 11.17.0
 
 ## pnpm
 
-version: 10.19.0
+version: 11.7.0
