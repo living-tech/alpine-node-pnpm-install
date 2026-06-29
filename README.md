@@ -8,7 +8,7 @@ version: 3.24.1
 
 ## NodeJS
 
-version: 22.23.0
+version: 22.23.1
 
 ## NPM
 
