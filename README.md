@@ -16,4 +16,4 @@ version: 12.2.1
 
 ## pnpm
 
-version: 11.7.0
+version: 11.28.8

@@ -6,7 +6,7 @@ ENV APP_ROOT=/node
 
 WORKDIR $APP_ROOT
 
-RUN apk add --update curl && rm -rf /var/cache/apk/*
-RUN npm install -g pnpm@11.7.0
+RUN apk upgrade --no-cache && apk add --no-cache curl
+RUN npm install -g pnpm@11.28.8
 
 CMD ["pnpm", "start"]
